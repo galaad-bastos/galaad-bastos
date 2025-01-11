@@ -6,7 +6,7 @@ I worked in this field for several years as an academic researcher, providing co
     
 **I’m currently**   
 > Improving my data analysis skills with the most commonly used tools in this domain (Python, SQL, Power BI, Excel/Sheets, etc.) to open new career opportunities and transition into a new field.
-> Please check the app we developed as our final project during the Le Wagon Bootcamp :  [Projet QV](https://projetqv.streamlit.app)
+> Please check the app we developed as our final project during the Le Wagon Bootcamp :  [Projet QV](https://projet-qv.streamlit.app)
   
 **I’m looking to collaborate on**  
 >   \- any open-source project using data for the common good ;  
