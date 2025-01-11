@@ -2,7 +2,7 @@
 >Galaad Bastos.  
 Used to be an archaeologist. Actually, an archaeometrist, but most people don't even know that word.  
 Archaeometrists support archaeology by bridging archaeology and experimental sciences like chemistry, physics, geology, biology, etc.  
-I worked in this field for several years as an academic researcher, providing complex chemical analyses, building associated databases, and helping interpret the chemical results. 
+I worked in this field for several years as an academic researcher, providing complex chemical analyses, building associated databases, and helping interpret the chemical results. Not so much like Indiana Jones after all.
     
 **I’m currently**   
 > Improving my data analysis skills with the most commonly used tools in this domain (Python, SQL, Power BI, Excel/Sheets, etc.) to open new career opportunities and transition into a new field.
